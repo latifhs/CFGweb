@@ -43,9 +43,6 @@ html, body {
   padding-bottom: 5px;
 }
 
-.btn-warning:hover {
-  background-color: #a59b27;
-}
 
 .social a {
   font-size: 4.5em;
@@ -162,7 +159,7 @@ html, body {
   }
   .carousel-caption {
     position: aboslute;
-    top: 45%;
+    top: 25%;
     transform: translateY(-50%);
   }
 
